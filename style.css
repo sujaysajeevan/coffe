@@ -1,0 +1,167 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.header1{
+    width: 20%;
+    height: 160px;
+    background-color:#3d0a0a85;
+    float: left;
+
+}
+.header2{
+    width: 80%;
+    height: 160px;
+    background-color:#3d0a0a85;
+    float: left;
+}
+.header-image{
+    height: 160px;
+    width: 100%;
+    border-radius: 50%;
+}
+.header3{
+    width: 100%;
+    height: 100px;
+    background-color:#430867;
+    text-align: center;
+}
+.heading{
+    font-size: 60px;
+    margin-top: 50px;
+    padding-left: 30px;
+    font-family: 'Rubik Mono One', sans-serif;
+    color: #422518;
+}
+.sub-heading{
+    padding-left: 330px;
+    color: #422518;
+}
+.main-body{
+    width: 100%;
+    height: 2950px;
+} 
+.dialogue1{
+    font-size: 40px;
+    text-align: center;
+    color: #422518;
+}
+.sub-div1{
+    width: 900px;
+    height: 160px;
+    border: 2px solid;
+    text-align: justify;
+    margin-top: 20px;
+    border-radius: 20px;
+    text-shadow: 1px 1px 1px;
+    box-shadow: 10px 10px 10px;
+    border-style: double;
+}
+li{
+    padding: 15px;
+    padding-top: 20px;
+}
+.brands1{
+    width: 600px;
+    height:250px ;
+    margin-top: 10px;
+}
+.brand-image1{
+    width: 45%;
+    height: 100%;
+    float: left;
+
+}
+
+
+
+.brand-info1{
+    width: 55%;
+    height: 100%;
+    float: left;
+    color: #422518e1;
+
+
+}
+.brands2{
+    width: 600px;
+    height:200px ;
+    margin-top: 10px;
+}
+.brand-image2{
+    width: 45%;
+    height: 100%;
+    float: left;
+}
+.brand-info2{
+    width: 55%;
+    height: 100%;
+    float: left;
+    color: #422518d0;
+}
+.brand-image{
+    width: 100%;
+    height: 100%;
+}
+.gallery{
+    width: 100%;
+    height:750px;
+    background-color: #6131063e;
+   
+   
+   
+}
+.g1{
+    display: flex;
+    justify-content: center;
+}
+.wish a{
+    padding-left: 20px;
+    color: white;
+}
+
+
+.coffee-img{
+    width: 400px;
+    height: 250px;
+    padding: 40px;
+    border-radius: 100px;
+ 
+    
+}
+.coffee-img:hover{
+    transform: scale(1.2);
+    transition: 2s;
+}
+
+.query{
+    width: 600px;
+    height:220px;
+    background-color:#cb8d5a ;
+    border: 3px solid #422518c2 ;
+    border-radius: 20px;
+    box-shadow: 20px 20px 10px;
+    margin-bottom: 100px;
+}
+
+a{
+    text-decoration: none;
+    margin-top: 50px;
+    padding-left: 100px;
+    color:#42251856;
+    font-size: 25px;
+}
+.link-div{
+    padding-top: 50px;
+
+}
+.fa{
+    margin-right: 5px;
+}
+.footer{
+    margin-top: 100px;
+    background-color: #2a11056f;
+}
+.icon a{
+    color:black;
+}
